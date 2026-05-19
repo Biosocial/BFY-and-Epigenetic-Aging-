@@ -26,7 +26,7 @@ During the age-4 university visit (July 2022 – August 2023), mothers were invi
 
 ## Description
 
-Access to data and scripts is only possible for those who have access to BFY data
+Access to data is only possible for those who have access to BFY data
 
 ## Explanation scripts
 
